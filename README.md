@@ -116,6 +116,12 @@ curled_threshold = 0.15
 - TensorRT acceleration
 - Custom-trained gesture models
 
+## Acknowledgements
+
+This project was inspired by and initially based on the NVIDIA Jetson Orin Nano Super Gesture Recognition tutorial by Cytron Technologies
+
+The original tutorial provided the foundation for this implementation. Additional debugging, testing, documentation, gesture tuning, and code modifications were performed by JudgeJacob.
+
 ## Author
 
 Jacob Hernandez
