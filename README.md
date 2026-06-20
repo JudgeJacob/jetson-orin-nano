@@ -64,7 +64,6 @@ Implemented the missing function:
 
 ```python
 def is_only_one_gesture(hand_landmarks):
-    ...
 ```
 
 ### Thumbs Up / Thumbs Down Detection Failure
