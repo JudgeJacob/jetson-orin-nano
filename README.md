@@ -95,21 +95,19 @@ curled_threshold = 0.15
 
 ### Hello Gesture
 
-![Hello](images/hello_gesture.jpg)
+
 
 ### Thumbs Up
 
-![Thumbs Up](images/thumbs_up.jpg)
+
 
 ### Thumbs Down
 
-![Thumbs Down](images/thumbs_down.jpg)
+
 
 ## Demo Video
 
-Add demo video here:
 
-videos/demo.mp4
 
 ## Future Improvements
 
